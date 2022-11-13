@@ -1,0 +1,66 @@
+body{
+    background: radial-gradient(#6b0620,#ffa6a6);
+    
+}
+
+header{
+    text-align: center;
+    color:#6b0620;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+}
+
+
+#contexto{
+    position: relative;
+    text-align: center;
+    background-color: #ffa6a6;
+    color: #6b0620;
+    border-radius: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    margin: 50px;
+}
+
+#Cenas{
+    position: relative;
+    text-align: center;
+    background-color: #ffa6a6;
+    color: #6b0620;
+    border-radius: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    margin: 50px;
+}
+
+.img{
+    border-style: solid;
+    border-color:#6b0620;
+    border-radius: 20px;
+}
+
+.video{
+    border-style: solid;
+    border-color: #6b0620;
+    border-radius: 20px;
+}
+
+#Reviews{
+    position: relative;
+    text-align: center;
+    background-color: #ffa6a6;
+    color: #6b0620;
+    border-radius: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    margin: 50px;
+}
+
+footer{
+    background-color:gray;
+    color: #1e1e1e;
+    opacity: 40%;
+    border-radius: 10px;
+}
+
+
